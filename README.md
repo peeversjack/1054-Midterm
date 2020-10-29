@@ -1,5 +1,5 @@
-# 1054-Midterm
-Site build for midterm
+## 1054-Midterm
+#Site build for midterm
 
 Copyright 2020 Jack Peevers
 
